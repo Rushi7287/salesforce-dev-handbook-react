@@ -1,3 +1,26 @@
+# Project Commands
+
+Here are the main commands to work with this project:
+
+1. **Install all dependencies**
+  ```bash
+  npm install
+  ```
+
+2. **Run the project (development mode)**
+  ```bash
+  npm run dev
+  ```
+
+3. **Build the project (production build)**
+  ```bash
+  npm run build
+  ```
+
+4. **Deploy the project to GitHub Pages**
+  ```bash
+  npm run deploy
+  ```
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
