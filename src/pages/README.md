@@ -158,7 +158,7 @@ function App() {
 ### 4. Content Structure
 ```
 public/
-└── rushikeshPortfolio/
+└── salesforce-dev-handbook-react/
     └── content/
         └── [topic-id]/
             ├── manifest.json
